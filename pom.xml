@@ -3,10 +3,10 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>jp.co.lawson.mo</groupId>
-    <artifactId>lawson-backend</artifactId>
+    <groupId>jp.co.demo</groupId>
+    <artifactId>hello-vue3-backend</artifactId>
     <packaging>war</packaging>
-    <name>lawson-backend</name>
+    <name>hello-vue3-backend</name>
     <version>1.0.0</version>
     <properties>
         <java.version>11</java.version>
@@ -27,7 +27,7 @@
         <version>2.7.17</version>
     </parent>
     <build>
-        <finalName>lawson-backend</finalName>
+        <finalName>hello-vue3-backend</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
         <plugins>
             <plugin>
