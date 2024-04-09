@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <auth>
+        <restapi path="/v1/demo01/refSearch" screenid="Demo01" controlid="Reference_Tab_Name"/>
+        <restapi path="/v1/common/getSysDate" screenid="*" controlid="*"/>
+    </auth>
+</root>
